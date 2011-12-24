@@ -1,0 +1,17 @@
+{
+  "author": "Enrico Marino <enrico.marino@email.com>",
+  "name": "factory",
+  "description": "JavaScript object factory",
+  "version": "0.0.0",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
