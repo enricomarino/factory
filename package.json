@@ -2,11 +2,11 @@
   "author": "Enrico Marino <enrico.marino@email.com>",
   "name": "factory",
   "description": "JavaScript object factory",
-  "version": "0.0.0",
-  "homepage": "",
+  "version": "0.1.0",
+  "homepage": "https://github.com/onirame/factory",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git://github.com/onirame/factory.git"
   },
   "main": "index.js",
   "engines": {
