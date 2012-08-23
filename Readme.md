@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/onirame/factory.png)](http://travis-ci.org/onirame/factory)
 # factory
 
 JavaScript object factory
