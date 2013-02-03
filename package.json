@@ -1,5 +1,8 @@
 {
-  "author": "Enrico Marino <enrico.marino@email.com>",
+  "author": {
+    "name": "Enrico Marino",
+    "url": "http://onirame.com"
+  }
   "name": "factory",
   "description": "JavaScript object factory",
   "version": "0.1.0",
