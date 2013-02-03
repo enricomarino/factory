@@ -1,0 +1,14 @@
+{
+  "name": "factory",
+  "repo": "onirame/factory",
+  "version": "0.0.1",
+  "description": "Router component",
+  "keywords": ["object", "factory", "class"],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT"
+}
