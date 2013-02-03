@@ -2,15 +2,15 @@
 
 JavaScript object factory
 
-## installation
+## Installation
 
-    $ npm install factory
+    $ component install onirame/factory
 
 ## License
 
 (The MIT License)
 
-Copyright (c) 2011 Enrico Marino &lt;enrico.marino@email.com&gt;
+Copyright (c) 2013 Enrico Marino
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
